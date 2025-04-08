@@ -3,14 +3,14 @@
 # A data-driven approach to identifying high-potential stocks by combining technical indicators, time series forecasting, and sentiment analysis.
 
 
-🚀 Overview
+## 🚀 Overview
 
 This project aims to automate the process of analyzing and forecasting S&P 500 stock performance using Python. Traditional stock screening is time-consuming and often based on manual observation of charts and news—this tool bridges that gap by integrating technical indicators, statistical modeling, and natural language processing into one streamlined pipeline.
 
 The model pulls and processes more than a decade of historical data to evaluate price momentum and trends, then overlays financial news sentiment to offer a comprehensive stock selection framework. This enables faster, more confident, and more informed investment decisions.
 
 
-📌 Objectives
+## 📌 Objectives
 
 ● Reduce manual stock screening time through automation
 
@@ -23,7 +23,7 @@ The model pulls and processes more than a decade of historical data to evaluate 
 ● Combine quantitative and qualitative signals to shortlist high-opportunity stocks
 
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 ● Python – Core language for data wrangling and modeling
 
@@ -38,7 +38,7 @@ The model pulls and processes more than a decade of historical data to evaluate 
 ● Matplotlib, Seaborn, Plotly – For data visualization
 
 
-🔍 Key Features
+## 🔍 Key Features
 
 ● Automated Data Pulling
 Pulls historical stock data for S&P 500 tickers from Yahoo Finance using the yfinance API.
@@ -56,12 +56,12 @@ Scrapes financial news for the relevant stocks and applies sentiment scoring to 
 Merges technical trends and sentiment insights to rank and identify stocks with upward momentum and positive sentiment.
 
 
-📈 Results
+## 📈 Results
 
 The system successfully identified 3 high-potential stocks showing both strong technical indicators and positive media sentiment. These results demonstrate that blending time-tested financial indicators with real-time sentiment scoring offers a powerful approach to investment screening and decision-making.
 
 
-📚 Future Work
+## 📚 Future Work
 
 ● Add a dashboard interface using Streamlit or Power BI
 
@@ -70,12 +70,12 @@ The system successfully identified 3 high-potential stocks showing both strong t
 ● Implement reinforcement learning for dynamic portfolio rebalancing
 
 
-🤝 Contributions
+## 🤝 Contributions
 
 Pull requests are welcome. If you'd like to improve this project, feel free to fork and contribute!
 
 
-📬 Contact
+## 📬 Contact
 For questions, collaborations, or feedback, feel free to connect:
 
 📧 Email: sidbh@bu.edu
